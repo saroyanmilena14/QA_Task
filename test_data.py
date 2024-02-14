@@ -1,0 +1,15 @@
+class TestData:
+
+    content="string"
+    user_id="string"
+    task_id="string"
+    content_update="string"
+    user_id_update="string"
+    task_id_update="string"
+    user_id1="string"
+    content1="string1"
+    content2="string2"
+    content3="string3"
+    task_id1="string1"
+    task_id2="string2"
+    task_id3="string3"
